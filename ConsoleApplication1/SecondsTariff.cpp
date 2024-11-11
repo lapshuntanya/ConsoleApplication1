@@ -32,4 +32,6 @@ void SecondsTariff::show() const
     cout << "Seconds Tariff\n";
     Tariff::show();
     cout << "Price for seconds: " << price << endl;
+    cout << "++++++++++++++++++++++++++\n\n";
+    cout << "++++++++++++++++++++++++++\n\n";
 }
