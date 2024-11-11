@@ -30,4 +30,5 @@ void MinutesTariff::show() const
     cout << "Minutes Tariff\n";
     Tariff::show();
     cout << "Price for minutes: " << price << endl;
+    cout << "++++++++++++++++++++++++++\n\n";
 }
