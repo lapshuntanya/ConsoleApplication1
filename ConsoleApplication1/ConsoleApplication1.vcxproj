@@ -132,12 +132,14 @@
     <ClCompile Include="Provider.cpp" />
     <ClCompile Include="SecondsTariff.cpp" />
     <ClCompile Include="Tariff.cpp" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MinutesTariff.h" />
     <ClInclude Include="Provider.h" />
     <ClInclude Include="SecondsTariff.h" />
     <ClInclude Include="Tariff.h" />
+    <ClInclude Include="test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
